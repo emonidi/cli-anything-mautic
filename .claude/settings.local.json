@@ -1,0 +1,28 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -m cli_anything.mautic --help)",
+      "Bash(/Users/emo/.browser-use-env/bin/python *)",
+      "Bash(/Users/emo/.browser-use-env/bin/pip install *)",
+      "Bash(brew list *)",
+      "Bash(/opt/homebrew/bin/python3 -m pip --version)",
+      "Bash(/opt/homebrew/bin/pip3 install *)",
+      "Bash(cli-anything-mautic --help)",
+      "Bash(/opt/homebrew/bin/python -m pip install --break-system-packages pytest)",
+      "Read(//opt/homebrew/bin/**)",
+      "Bash(/opt/homebrew/bin/python3 -m pip install --break-system-packages pytest)",
+      "Bash(/opt/homebrew/bin/python3 *)",
+      "Bash(python3 *)",
+      "Bash(xxd)",
+      "Bash(cli-anything-mautic contacts *)",
+      "Bash(curl *)",
+      "Bash(pip install *)",
+      "Bash(cli-anything-mautic config *)",
+      "Read(//private/tmp/**)",
+      "Bash(cli-anything-mautic --project /Users/emo/dev/mautic-cli config show)",
+      "Bash(mkdir -p ~/.mautic)",
+      "Bash(cp /Users/emo/dev/mautic-cli/.mautic_project.json ~/.mautic/.mautic_project.json)",
+      "Bash(cli-anything-mautic emails *)"
+    ]
+  }
+}

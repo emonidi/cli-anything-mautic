@@ -1,0 +1,7 @@
+{
+  "base_url": "http://164.92.215.41:8088/api/",
+  "api_key_id": "1_311tc8pg4d8g00o0ok0s0swg8cow8kk48cscgckkos4gw8c4gk",
+  "api_key_secret": "raedma30y804osgskcc48ocwo4gggsw400go0wkwoooc440g",
+  "oauth2_token_endpoint": "http://164.92.215.41:8088/oauth/v2/token",
+  "api_version": "2"
+}
